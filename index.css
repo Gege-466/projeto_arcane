@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    background-image: url(./arcaneimagem.jpg);
+    background-repeat: no-repeat;
+    background-size: 39%;
+}
+
+button {
+    background-color:#00284d;
+    color: white;
+    margin-top: 24%;
+    margin-left: 66%;
+    height: 98px;
+    width: 22%;  
+    font-size: 65px;  
+    font-family:cursive;
+    border-radius: 12px;
+}
